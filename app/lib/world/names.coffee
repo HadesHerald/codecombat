@@ -685,6 +685,7 @@ module.exports.thangNames = thangNames =
     'Mogvar'
     'Ral\'thuk'
     'Soth'
+    'That Guy'
     'Ulxx'
     'Ur'
     'Veznyr'
