@@ -56,6 +56,7 @@ module.exports.thangNames = thangNames =
     'Harry'
     'Henry'
     'Hirium'
+    'Horace'
     'Howard'
     'Huburt'
     'Hugo'
@@ -491,6 +492,7 @@ module.exports.thangNames = thangNames =
   'Ogre Shaman': [
     'Ahst\'durante'
     'Aolian\'Tak'
+    'Blob'
     'Drun'
     'Ghuk'
     'Gogg'
@@ -503,6 +505,7 @@ module.exports.thangNames = thangNames =
     'Nazgareth'
     'Poult'
     'Sham\'uk'
+    'Skull Shaker'
     'Turann'
     'Tuzang'
     'Tuzell'
@@ -536,10 +539,12 @@ module.exports.thangNames = thangNames =
     'Borlit'
     'Burlosh'
     'Dorf'
+    'Moosh'
   ]
   'Griffin Rider': [
     'Aeoldan'
     'Bestarius'
+    'Kale'
     'Letholdus'
   ]
   'Potion Master': [
@@ -547,6 +552,7 @@ module.exports.thangNames = thangNames =
     'Arora'
     'Artephius'
     'Clause'
+    'Cleopatra'
     'Curie'
     'Kanada'
     'Omar'
@@ -611,6 +617,7 @@ module.exports.thangNames = thangNames =
     'Naruto'
     'Sakura'
     'Sasuke'
+    'Shen'
   ]
   'Sorcerer': [
     'Beazer'
@@ -619,6 +626,7 @@ module.exports.thangNames = thangNames =
   ]
   'Samurai': [
     'Hattori'
+    'Yasuo'
   ]
   'Sand Yak': [
     'Arngotho'
@@ -626,6 +634,7 @@ module.exports.thangNames = thangNames =
     'Langthok'
     'Ofgar'
     'Randall'
+    'Sarlacc'
   ]
   'Ogre Scout M': [
     'Frandar'
