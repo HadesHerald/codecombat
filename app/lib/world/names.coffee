@@ -360,6 +360,7 @@ module.exports.thangNames = thangNames =
     'Dev'
     'Fidsdale'
     'Gimsley'
+    'Halt'
     'Hunter'
     'Loco'
     'Logos'
@@ -372,6 +373,7 @@ module.exports.thangNames = thangNames =
     'Simon'
     'Sharp Shooter'
     'Slyvos'
+    'Will'
     'Vican'
   ]
   'Ogre Munchkin M': [
